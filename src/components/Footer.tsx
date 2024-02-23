@@ -9,6 +9,8 @@ const Footer = () => {
             <span className="text-white font-bold tracking-tight flex gap-4">
                 <span>Privacy Policy</span>
                 <span>Terms of Service</span>
+                <span>Contact Us</span>
+                <span>About Us</span>
             </span>
         </div>
     </div>
